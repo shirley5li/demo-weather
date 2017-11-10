@@ -1,7 +1,7 @@
 # demo-weather
 A demo of weather app learned from freeCodeCamp
 
-Using jquery, bootstrap, with the help of the weather API "https://fcc-weather-api.glitch.me/api/current?", we can get the local weather on the base of HTML5 geolocation method.
+Using jquery, bootstrap, with the help of the weather API "https://fcc-weather-api.glitch.me/api/current?", we can get the local weather on the base of HTML5 geolocation method.When click the temprature unit will change the centigrade temperature to degree Fahrenheit.
 
 However the weather API need jump out of the wall ...
 
